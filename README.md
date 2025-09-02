@@ -12,7 +12,7 @@ By building an accurate predictive model, we can potentially identify individual
 
 ---
 
-## Objectives
+## Project Workflow
 1. Acquire and load the dataset.  
 2. Clean and preprocess data (handle duplicates, missing values, data types).  
 3. Explore numeric, binary, and ordinal columns.  
